@@ -1,10 +1,10 @@
 package com.travelKmp
 
 import io.ktor.server.application.*
+import io.ktor.server.netty.EngineMain
 
-fun main(args: Array<String>) {
-    io.ktor.server.netty.EngineMain.main(args)
-}
+fun main(args: Array<String>): Unit = EngineMain.main(args)
+
 
 fun Application.module() {
    // configureSecurity()

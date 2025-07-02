@@ -12,7 +12,7 @@ group = "com.travelKmp"
 version = "0.0.1"
 
 application {
-    mainClass = "io.ktor.server.netty.EngineMain"
+    mainClass = "com.travelKmp.ApplicationKt"
     val isDevelopment: Boolean = project.ext.has("development")
     applicationDefaultJvmArgs = listOf("-Dio.ktor.development=$isDevelopment")
 }
