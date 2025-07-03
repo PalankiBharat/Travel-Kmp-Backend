@@ -23,5 +23,5 @@ FROM eclipse-temurin:23-jre AS runtime
 EXPOSE 8080
 RUN mkdir /app
 COPY --from=build /home/gradle/src/build/libs/fat.jar /app/app.jar
-COPY --from=build /usr/src/app/src/main/resources/application.conf application.conf
-ENTRYPOINT ["java","-jar","/app/app.jar", "-config=application.conf"]
+COPY --from=build /usr/src/app/src/main/resources/application.yaml application.yaml
+ENTRYPOINT ["java","-jar","/app/app.jar", "-config=application.yaml"]

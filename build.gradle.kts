@@ -11,7 +11,7 @@ group = "com.travelKmp"
 version = "0.0.1"
 
 application {
-    mainClass = "io.ktor.server.netty.EngineMain"
+    mainClass = "com.travelKmp.ApplicationKt"
 }
 ktor {
     fatJar {
@@ -34,6 +34,7 @@ dependencies {
     implementation("io.ktor:ktor-client-core")
     implementation("io.ktor:ktor-client-apache")
     implementation("io.ktor:ktor-server-auth-jwt")
+    implementation("io.ktor:ktor-server-config-yaml-jvm")
     implementation("io.ktor:ktor-server-content-negotiation")
     implementation("io.ktor:ktor-serialization-kotlinx-json")
     implementation("io.ktor:ktor-server-default-headers")

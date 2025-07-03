@@ -82,7 +82,7 @@ fun Route.countriesRoutes() {
             }
 
             if (fileBytes != null) {
-                val filePath = repository.saveImage(fileBytes!!, fileName)
+                val filePath = repository.saveImage(fileBytes, fileName)
                 call.respond(hashMapOf("filePath" to filePath))
             } else {
                 call.respondText("No file received", status = HttpStatusCode.BadRequest)
