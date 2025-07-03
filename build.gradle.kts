@@ -11,9 +11,8 @@ group = "com.travelKmp"
 version = "0.0.1"
 
 application {
-    mainClass.set("com.travelKmp.ApplicationKt")
+    mainClass = "io.ktor.server.netty.EngineMain"
 }
-
 ktor {
     fatJar {
         archiveFileName.set("fat.jar")
@@ -24,9 +23,9 @@ ktor {
 }
 
 
+
 repositories {
     mavenCentral()
-    maven { url = uri("https://packages.confluent.io/maven/") }
 }
 
 dependencies {
