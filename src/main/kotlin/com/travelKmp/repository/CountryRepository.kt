@@ -1,6 +1,6 @@
-package repository
+package com.travelKmp.repository
 
-import models.Country
+import com.travelKmp.models.Country
 import kotlinx.serialization.json.Json
 import java.io.File
 

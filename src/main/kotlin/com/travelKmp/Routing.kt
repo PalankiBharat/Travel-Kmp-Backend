@@ -1,5 +1,8 @@
-import models.Country
-import repository.CountryRepository
+package com.travelKmp
+
+
+import com.travelKmp.models.Country
+import com.travelKmp.repository.CountryRepository
 import io.ktor.http.*
 import io.ktor.http.content.*
 import io.ktor.server.application.*
