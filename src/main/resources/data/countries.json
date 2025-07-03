@@ -1,7 +1,7 @@
 [
   {
     "name": "Saudi Arabia",
-    "flagIcon": "data/images/sa.png",
+    "flagIcon": "images/sa.png",
     "touristPlaces": [
       {
         "name": "Mecca",
@@ -12,10 +12,10 @@
           "long": 39.826168
         },
         "images": [
-          "data/images/makah.jpg",
-          "data/images/makkah_2.jpeg",
-          "data/images/arafat.jpg",
-          "data/images/jabal_al_noor.jpeg"
+          "images/makah.jpg",
+          "images/makkah_2.jpeg",
+          "images/arafat.jpg",
+          "images/jabal_al_noor.jpeg"
         ]
       },
       {
@@ -27,10 +27,10 @@
           "long": 39.612236
         },
         "images": [
-          "data/images/madinah.jpg",
-          "data/images/madinah_2.jpg",
-          "data/images/masjid-quba.jpg",
-          "data/images/mount_uhud.jpg"
+          "images/madinah.jpg",
+          "images/madinah_2.jpg",
+          "images/masjid-quba.jpg",
+          "images/mount_uhud.jpg"
         ]
       },
       {
@@ -42,17 +42,17 @@
           "long": 39.612236
         },
         "images": [
-          "data/images/colck_tower.jpg",
-          "data/images/colck_tower_2.jpg",
-          "data/images/colck_tower_3.jpg",
-          "data/images/colck_tower_4.jpg"
+          "images/colck_tower.jpg",
+          "images/colck_tower_2.jpg",
+          "images/colck_tower_3.jpg",
+          "images/colck_tower_4.jpg"
         ]
       }
     ]
   },
   {
     "name": "Egypt",
-    "flagIcon": "data/images/eg.png",
+    "flagIcon": "images/eg.png",
     "touristPlaces": [
       {
         "name": "Al-Azhar Masjid",
@@ -63,8 +63,8 @@
           "long": 31.2627
         },
         "images": [
-          "data/images/al_azhar_masjid.jpg",
-          "data/images/al_azhar_masjid_2.jpeg"
+          "images/al_azhar_masjid.jpg",
+          "images/al_azhar_masjid_2.jpeg"
         ]
       },
       {
@@ -76,10 +76,10 @@
           "long": 31.1342
         },
         "images": [
-          "data/images/py.webp",
-          "data/images/py_2.jpeg",
-          "data/images/py_3.jpeg",
-          "data/images/py_4.jpeg"
+          "images/py.webp",
+          "images/py_2.jpeg",
+          "images/py_3.jpeg",
+          "images/py_4.jpeg"
         ]
       },
       {
@@ -91,17 +91,17 @@
           "long": 31.2597
         },
         "images": [
-          "data/images/ca_salah.jpeg",
-          "data/images/ca_salah_1.webp",
-          "data/images/ca_salah_2.jpeg",
-          "data/images/ca_salah_3.jpeg"
+          "images/ca_salah.jpeg",
+          "images/ca_salah_1.webp",
+          "images/ca_salah_2.jpeg",
+          "images/ca_salah_3.jpeg"
         ]
       }
     ]
   },
   {
     "name": "Japan",
-    "flagIcon": "data/images/jp.png",
+    "flagIcon": "images/jp.png",
     "touristPlaces": [
       {
         "name": "Tokyo Skytree",
@@ -112,10 +112,10 @@
           "long": 139.8107
         },
         "images": [
-          "data/images/tokyo_skytree_1.jpg",
-          "data/images/tokyo_skytree_2.jpg",
-          "data/images/tokyo_skytree_3.jpg",
-          "data/images/tokyo_skytree_4.jpg"
+          "images/tokyo_skytree_1.jpg",
+          "images/tokyo_skytree_2.jpg",
+          "images/tokyo_skytree_3.jpg",
+          "images/tokyo_skytree_4.jpg"
         ]
       },
       {
@@ -127,12 +127,12 @@
           "long": 135.7792
         },
         "images": [
-          "data/images/fushimi_inari_taisha_1.jpg",
-          "data/images/fushimi_inari_taisha_2.jpg",
-          "data/images/fushimi_inari_taisha_3.jpg",
-          "data/images/fushimi_inari_taisha_4.jpg",
-          "data/images/fushimi_inari_taisha_5.jpg",
-          "data/images/fushimi_inari_taisha_6.jpg"
+          "images/fushimi_inari_taisha_1.jpg",
+          "images/fushimi_inari_taisha_2.jpg",
+          "images/fushimi_inari_taisha_3.jpg",
+          "images/fushimi_inari_taisha_4.jpg",
+          "images/fushimi_inari_taisha_5.jpg",
+          "images/fushimi_inari_taisha_6.jpg"
         ]
       },
       {
@@ -144,21 +144,21 @@
           "long": 138.7274
         },
         "images": [
-          "data/images/mount_fuji_1.jpg",
-          "data/images/mount_fuji_2.jpg",
-          "data/images/mount_fuji_3.jpg",
-          "data/images/mount_fuji_4.jpg",
-          "data/images/mount_fuji_5.jpg",
-          "data/images/mount_fuji_6.jpg",
-          "data/images/mount_fuji_7.jpg",
-          "data/images/mount_fuji_8.jpg"
+          "images/mount_fuji_1.jpg",
+          "images/mount_fuji_2.jpg",
+          "images/mount_fuji_3.jpg",
+          "images/mount_fuji_4.jpg",
+          "images/mount_fuji_5.jpg",
+          "images/mount_fuji_6.jpg",
+          "images/mount_fuji_7.jpg",
+          "images/mount_fuji_8.jpg"
         ]
       }
     ]
   },
   {
     "name": "France",
-    "flagIcon": "data/images/fr.png",
+    "flagIcon": "images/fr.png",
     "touristPlaces": [
       {
         "name": "Eiffel Tower",
@@ -169,9 +169,9 @@
           "long": 2.2945
         },
         "images": [
-          "data/images/eiffel_tower_2.jpg",
-          "data/images/eiffel_tower_3.jpg",
-          "data/images/eiffel_tower_4.jpg"
+          "images/eiffel_tower_2.jpg",
+          "images/eiffel_tower_3.jpg",
+          "images/eiffel_tower_4.jpg"
         ]
       },
       {
@@ -183,19 +183,19 @@
           "long": 1.5115
         },
         "images": [
-          "data/images/mont_saint_michel_1.jpg",
-          "data/images/mont_saint_michel_2.jpg",
-          "data/images/mont_saint_michel_3.jpg",
-          "data/images/mont_saint_michel_4.jpg",
-          "data/images/mont_saint_michel_5.jpg",
-          "data/images/mont_saint_michel_6.jpg"
+          "images/mont_saint_michel_1.jpg",
+          "images/mont_saint_michel_2.jpg",
+          "images/mont_saint_michel_3.jpg",
+          "images/mont_saint_michel_4.jpg",
+          "images/mont_saint_michel_5.jpg",
+          "images/mont_saint_michel_6.jpg"
         ]
       }
     ]
   },
   {
     "name": "Bangladesh",
-    "flagIcon": "data/images/bd.png",
+    "flagIcon": "images/bd.png",
     "touristPlaces": [
       {
         "name": "Cox's Bazar",
@@ -206,11 +206,11 @@
           "long": 92.0061
         },
         "images": [
-          "data/images/bangladesh_coxs_bazar_1.jpg",
-          "data/images/bangladesh_coxs_bazar_2.jpg",
-          "data/images/bangladesh_coxs_bazar_3.jpg",
-          "data/images/bangladesh_coxs_bazar_4.jpg",
-          "data/images/bangladesh_coxs_bazar_5.jpg"
+          "images/bangladesh_coxs_bazar_1.jpg",
+          "images/bangladesh_coxs_bazar_2.jpg",
+          "images/bangladesh_coxs_bazar_3.jpg",
+          "images/bangladesh_coxs_bazar_4.jpg",
+          "images/bangladesh_coxs_bazar_5.jpg"
         ]
       },
       {
@@ -222,14 +222,14 @@
           "long": 63.0501
         },
         "images": [
-          "data/images/bangladesh_saint_martin_1.jpg",
-          "data/images/bangladesh_saint_martin_2.jpg",
-          "data/images/bangladesh_saint_martin_3.jpg",
-          "data/images/bangladesh_saint_martin_4.jpg",
-          "data/images/bangladesh_saint_martin_5.jpg",
-          "data/images/bangladesh_saint_martin_6.jpg",
-          "data/images/bangladesh_saint_martin_7.jpg",
-          "data/images/bangladesh_saint_martin_8.jpg"
+          "images/bangladesh_saint_martin_1.jpg",
+          "images/bangladesh_saint_martin_2.jpg",
+          "images/bangladesh_saint_martin_3.jpg",
+          "images/bangladesh_saint_martin_4.jpg",
+          "images/bangladesh_saint_martin_5.jpg",
+          "images/bangladesh_saint_martin_6.jpg",
+          "images/bangladesh_saint_martin_7.jpg",
+          "images/bangladesh_saint_martin_8.jpg"
         ]
       },
       {
@@ -241,10 +241,10 @@
           "long": 92.1611
         },
         "images": [
-          "data/images/bangladesh_rangamati_1.jpg",
-          "data/images/bangladesh_rangamati_2.jpg",
-          "data/images/bangladesh_rangamati_3.jpg",
-          "data/images/bangladesh_rangamati_4.jpg"
+          "images/bangladesh_rangamati_1.jpg",
+          "images/bangladesh_rangamati_2.jpg",
+          "images/bangladesh_rangamati_3.jpg",
+          "images/bangladesh_rangamati_4.jpg"
         ]
       },
       {
@@ -256,10 +256,10 @@
           "long": 92.2176
         },
         "images": [
-          "data/images/bangladesh_bandarban_1.jpg",
-          "data/images/bangladesh_bandarban_2.jpg",
-          "data/images/bangladesh_bandarban_3.jpg",
-          "data/images/bangladesh_bandarban_4.jpg"
+          "images/bangladesh_bandarban_1.jpg",
+          "images/bangladesh_bandarban_2.jpg",
+          "images/bangladesh_bandarban_3.jpg",
+          "images/bangladesh_bandarban_4.jpg"
         ]
       },
       {
@@ -271,10 +271,10 @@
           "long": 90.3882
         },
         "images": [
-          "data/images/bangladesh_lalbagh_1.jpg",
-          "data/images/bangladesh_lalbagh_2.jpg",
-          "data/images/bangladesh_lalbagh_3.jpg",
-          "data/images/bangladesh_lalbagh_4.jpg"
+          "images/bangladesh_lalbagh_1.jpg",
+          "images/bangladesh_lalbagh_2.jpg",
+          "images/bangladesh_lalbagh_3.jpg",
+          "images/bangladesh_lalbagh_4.jpg"
         ]
       },
       {
@@ -286,9 +286,9 @@
           "long": 90.4060
         },
         "images": [
-          "data/images/bangladesh_ahsan_manjil_1.jpg",
-          "data/images/bangladesh_ahsan_manjil_2.jpg",
-          "data/images/bangladesh_ahsan_manjil_3.jpg"
+          "images/bangladesh_ahsan_manjil_1.jpg",
+          "images/bangladesh_ahsan_manjil_2.jpg",
+          "images/bangladesh_ahsan_manjil_3.jpg"
         ]
       },
       {
@@ -300,10 +300,10 @@
           "long": 92.2939
         },
         "images": [
-          "data/images/bangladesh_sajek_valley_1.jpg",
-          "data/images/bangladesh_sajek_valley_2.jpg",
-          "data/images/bangladesh_sajek_valley_3.jpg",
-          "data/images/bangladesh_sajek_valley_4.jpg"
+          "images/bangladesh_sajek_valley_1.jpg",
+          "images/bangladesh_sajek_valley_2.jpg",
+          "images/bangladesh_sajek_valley_3.jpg",
+          "images/bangladesh_sajek_valley_4.jpg"
         ]
       },
       {
@@ -315,18 +315,18 @@
           "long": 89.1833
         },
         "images": [
-          "data/images/bangladesh_sundarbans_1.jpg",
-          "data/images/bangladesh_sundarbans_2.jpg",
-          "data/images/bangladesh_sundarbans_3.jpg",
-          "data/images/bangladesh_sundarbans_4.jpg",
-          "data/images/bangladesh_sundarbans_5.jpg"
+          "images/bangladesh_sundarbans_1.jpg",
+          "images/bangladesh_sundarbans_2.jpg",
+          "images/bangladesh_sundarbans_3.jpg",
+          "images/bangladesh_sundarbans_4.jpg",
+          "images/bangladesh_sundarbans_5.jpg"
         ]
       }
     ]
   },
   {
     "name": "India",
-    "flagIcon": "data/images/india.png",
+    "flagIcon": "images/india.png",
     "touristPlaces": [
       {
         "name": "Taj Mahal",
@@ -337,11 +337,11 @@
           "long": 78.0421
         },
         "images": [
-          "data/images/india_taj_mahal_1.jpg",
-          "data/images/india_taj_mahal_2.jpg",
-          "data/images/india_taj_mahal_3.jpg",
-          "data/images/india_taj_mahal_4.jpg",
-          "data/images/india_taj_mahal_5.jpg"
+          "images/india_taj_mahal_1.jpg",
+          "images/india_taj_mahal_2.jpg",
+          "images/india_taj_mahal_3.jpg",
+          "images/india_taj_mahal_4.jpg",
+          "images/india_taj_mahal_5.jpg"
         ]
       },
       {
@@ -353,13 +353,13 @@
           "long": 82.9739
         },
         "images": [
-          "data/images/india_varanasi_1.jpg",
-          "data/images/india_varanasi_2.jpeg",
-          "data/images/india_varanasi_3.jpg",
-          "data/images/india_varanasi_4.jpg",
-          "data/images/india_varanasi_5.jpg",
-          "data/images/india_varanasi_6.jpg",
-          "data/images/india_varanasi_7.jpg"
+          "images/india_varanasi_1.jpg",
+          "images/india_varanasi_2.jpeg",
+          "images/india_varanasi_3.jpg",
+          "images/india_varanasi_4.jpg",
+          "images/india_varanasi_5.jpg",
+          "images/india_varanasi_6.jpg",
+          "images/india_varanasi_7.jpg"
         ]
       },
       {
@@ -371,13 +371,13 @@
           "long": 77.0595
         },
         "images": [
-          "data/images/india_munnar_1.jpg",
-          "data/images/india_munnar_2.jpg",
-          "data/images/india_munnar_3.jpg",
-          "data/images/india_munnar_4.jpg",
-          "data/images/india_munnar_5.jpg",
-          "data/images/india_munnar_6.jpg",
-          "data/images/india_munnar_7.jpg"
+          "images/india_munnar_1.jpg",
+          "images/india_munnar_2.jpg",
+          "images/india_munnar_3.jpg",
+          "images/india_munnar_4.jpg",
+          "images/india_munnar_5.jpg",
+          "images/india_munnar_6.jpg",
+          "images/india_munnar_7.jpg"
         ]
       },
       {
@@ -389,10 +389,10 @@
           "long": 75.8513
         },
         "images": [
-          "data/images/india_amber_palace_1.jpg",
-          "data/images/india_amber_palace_2.jpg",
-          "data/images/india_amber_palace_3.jpg",
-          "data/images/india_amber_palace_4.jpg"
+          "images/india_amber_palace_1.jpg",
+          "images/india_amber_palace_2.jpg",
+          "images/india_amber_palace_3.jpg",
+          "images/india_amber_palace_4.jpg"
         ]
       },
       {
@@ -404,13 +404,13 @@
           "long": 74.3143
         },
         "images": [
-          "data/images/india_dudhsagar_waterfalls_1.jpg",
-          "data/images/india_dudhsagar_waterfalls_2.jpg",
-          "data/images/india_dudhsagar_waterfalls_3.jpg",
-          "data/images/india_dudhsagar_waterfalls_4.jpg",
-          "data/images/india_dudhsagar_waterfalls_5.jpg",
-          "data/images/india_dudhsagar_waterfalls_6.webp",
-          "data/images/india_dudhsagar_waterfalls_7.jpg"
+          "images/india_dudhsagar_waterfalls_1.jpg",
+          "images/india_dudhsagar_waterfalls_2.jpg",
+          "images/india_dudhsagar_waterfalls_3.jpg",
+          "images/india_dudhsagar_waterfalls_4.jpg",
+          "images/india_dudhsagar_waterfalls_5.jpg",
+          "images/india_dudhsagar_waterfalls_6.webp",
+          "images/india_dudhsagar_waterfalls_7.jpg"
         ]
       },
       {
@@ -422,15 +422,15 @@
           "long": 77.1892
         },
         "images": [
-          "data/images/india_manali_1.jpg",
-          "data/images/india_manali_2.jpg",
-          "data/images/india_manali_3.jpg",
-          "data/images/india_manali_4.jpg",
-          "data/images/india_manali_5.jpg",
-          "data/images/india_manali_6.jpg",
-          "data/images/india_manali_7.jpg",
-          "data/images/india_manali_8.jpg",
-          "data/images/india_manali_9.jpg"
+          "images/india_manali_1.jpg",
+          "images/india_manali_2.jpg",
+          "images/india_manali_3.jpg",
+          "images/india_manali_4.jpg",
+          "images/india_manali_5.jpg",
+          "images/india_manali_6.jpg",
+          "images/india_manali_7.jpg",
+          "images/india_manali_8.jpg",
+          "images/india_manali_9.jpg"
         ]
       },
       {
@@ -442,15 +442,15 @@
           "long": 88.2663
         },
         "images": [
-          "data/images/india_darjeeling_1.jpg",
-          "data/images/india_darjeeling_2.jpg",
-          "data/images/india_darjeeling_3.jpg",
-          "data/images/india_darjeeling_4.jpg",
-          "data/images/india_darjeeling_5.jpg",
-          "data/images/india_darjeeling_6.jpg",
-          "data/images/india_darjeeling_7.jpg",
-          "data/images/india_darjeeling_8.jpg",
-          "data/images/india_darjeeling_9.jpg"
+          "images/india_darjeeling_1.jpg",
+          "images/india_darjeeling_2.jpg",
+          "images/india_darjeeling_3.jpg",
+          "images/india_darjeeling_4.jpg",
+          "images/india_darjeeling_5.jpg",
+          "images/india_darjeeling_6.jpg",
+          "images/india_darjeeling_7.jpg",
+          "images/india_darjeeling_8.jpg",
+          "images/india_darjeeling_9.jpg"
         ]
       },
       {
@@ -462,21 +462,21 @@
           "long": 74.8683
         },
         "images": [
-          "data/images/india_dal_lake_1.jpg",
-          "data/images/india_dal_lake_2.jpg",
-          "data/images/india_dal_lake_3.jpg",
-          "data/images/india_dal_lake_4.jpg",
-          "data/images/india_dal_lake_5.jpg",
-          "data/images/india_dal_lake_6.jpg",
-          "data/images/india_dal_lake_7.jpg",
-          "data/images/india_dal_lake_8.jpg"
+          "images/india_dal_lake_1.jpg",
+          "images/india_dal_lake_2.jpg",
+          "images/india_dal_lake_3.jpg",
+          "images/india_dal_lake_4.jpg",
+          "images/india_dal_lake_5.jpg",
+          "images/india_dal_lake_6.jpg",
+          "images/india_dal_lake_7.jpg",
+          "images/india_dal_lake_8.jpg"
         ]
       }
     ]
   },
   {
     "name": "Pakistan",
-    "flagIcon": "data/images/pk.png",
+    "flagIcon": "images/pk.png",
     "touristPlaces": [
       {
         "name": "Badshahi Mosque, Lahore",
@@ -487,9 +487,9 @@
           "long": 74.3094
         },
         "images": [
-          "data/images/pakistan_badshahi_mosque_1.jpg",
-          "data/images/pakistan_badshahi_mosque_2.jpg",
-          "data/images/pakistan_badshahi_mosque_3.jpg"
+          "images/pakistan_badshahi_mosque_1.jpg",
+          "images/pakistan_badshahi_mosque_2.jpg",
+          "images/pakistan_badshahi_mosque_3.jpg"
         ]
       },
       {
@@ -501,8 +501,8 @@
           "long": 75.4565
         },
         "images": [
-          "data/images/pakistan_shangrila_resort_1.jpg",
-          "data/images/pakistan_shangrila_resort_2.jpeg"
+          "images/pakistan_shangrila_resort_1.jpg",
+          "images/pakistan_shangrila_resort_2.jpeg"
         ]
       },
       {
@@ -514,15 +514,15 @@
           "long": 74.6500
         },
         "images": [
-          "data/images/pakistan_hunza_valley_1.jpg",
-          "data/images/pakistan_hunza_valley_2.jpg"
+          "images/pakistan_hunza_valley_1.jpg",
+          "images/pakistan_hunza_valley_2.jpg"
         ]
       }
     ]
   },
   {
     "name": "Algeria",
-    "flagIcon": "data/images/dz.png",
+    "flagIcon": "images/dz.png",
     "touristPlaces": [
       {
         "name": "Kasbah of Algiers",
@@ -533,14 +533,14 @@
           "long": 3.0732
         },
         "images": [
-          "data/images/algeria_kasba_1.jpg",
-          "data/images/algeria_kasba_2.jpg",
-          "data/images/algeria_kasba_3.jpg",
-          "data/images/algeria_kasba_4.jpg",
-          "data/images/algeria_kasba_5.jpg",
-          "data/images/algeria_kasba_6.jpg",
-          "data/images/algeria_kasba_7.jpg",
-          "data/images/algeria_kasba_8.jpg"
+          "images/algeria_kasba_1.jpg",
+          "images/algeria_kasba_2.jpg",
+          "images/algeria_kasba_3.jpg",
+          "images/algeria_kasba_4.jpg",
+          "images/algeria_kasba_5.jpg",
+          "images/algeria_kasba_6.jpg",
+          "images/algeria_kasba_7.jpg",
+          "images/algeria_kasba_8.jpg"
         ]
       },
       {
@@ -552,12 +552,12 @@
           "long": 6.4680
         },
         "images": [
-          "data/images/algeria_timgad_1.jpg",
-          "data/images/algeria_timgad_2.jpg",
-          "data/images/algeria_timgad_3.jpg",
-          "data/images/algeria_timgad_4.jpg",
-          "data/images/algeria_timgad_5.jpg",
-          "data/images/algeria_timgad_6.jpg"
+          "images/algeria_timgad_1.jpg",
+          "images/algeria_timgad_2.jpg",
+          "images/algeria_timgad_3.jpg",
+          "images/algeria_timgad_4.jpg",
+          "images/algeria_timgad_5.jpg",
+          "images/algeria_timgad_6.jpg"
         ]
       },
       {
@@ -569,19 +569,19 @@
           "long": 3.0758
         },
         "images": [
-          "data/images/the_botanical_garden_1.jpg",
-          "data/images/the_botanical_garden_2.jpg",
-          "data/images/the_botanical_garden_3.jpg",
-          "data/images/the_botanical_garden_4.jpg",
-          "data/images/the_botanical_garden_5.jpg",
-          "data/images/the_botanical_garden_6.jpg"
+          "images/the_botanical_garden_1.jpg",
+          "images/the_botanical_garden_2.jpg",
+          "images/the_botanical_garden_3.jpg",
+          "images/the_botanical_garden_4.jpg",
+          "images/the_botanical_garden_5.jpg",
+          "images/the_botanical_garden_6.jpg"
         ]
       }
     ]
   },
   {
     "name": "Germany",
-    "flagIcon": "data/images/germany.png",
+    "flagIcon": "images/germany.png",
     "touristPlaces": [
       {
         "name": "Brandenburg Gate",
@@ -592,11 +592,11 @@
           "long": 13.3777
         },
         "images": [
-          "data/images/germany_brandenburg_gate_1.jpeg",
-          "data/images/germany_brandenburg_gate_2.jpeg",
-          "data/images/germany_brandenburg_gate_3.jpeg",
-          "data/images/germany_brandenburg_gate_4.jpeg",
-          "data/images/germany_brandenburg_gate_5.jpeg"
+          "images/germany_brandenburg_gate_1.jpeg",
+          "images/germany_brandenburg_gate_2.jpeg",
+          "images/germany_brandenburg_gate_3.jpeg",
+          "images/germany_brandenburg_gate_4.jpeg",
+          "images/germany_brandenburg_gate_5.jpeg"
         ]
       },
       {
@@ -608,11 +608,11 @@
           "long": 10.7498
         },
         "images": [
-          "data/images/germany_neuschwanstein_castle_1.jpeg",
-          "data/images/germany_neuschwanstein_castle_2.jpeg",
-          "data/images/germany_neuschwanstein_castle_3.jpeg",
-          "data/images/germany_neuschwanstein_castle_4.jpeg",
-          "data/images/germany_neuschwanstein_castle_5.jpeg"
+          "images/germany_neuschwanstein_castle_1.jpeg",
+          "images/germany_neuschwanstein_castle_2.jpeg",
+          "images/germany_neuschwanstein_castle_3.jpeg",
+          "images/germany_neuschwanstein_castle_4.jpeg",
+          "images/germany_neuschwanstein_castle_5.jpeg"
         ]
       },
       {
@@ -624,11 +624,11 @@
           "long": 6.9583
         },
         "images": [
-          "data/images/germany_cologne_cathedral_1.jpeg",
-          "data/images/germany_cologne_cathedral_2.jpeg",
-          "data/images/germany_cologne_cathedral_3.jpeg",
-          "data/images/germany_cologne_cathedral_4.jpeg",
-          "data/images/germany_cologne_cathedral_5.jpeg"
+          "images/germany_cologne_cathedral_1.jpeg",
+          "images/germany_cologne_cathedral_2.jpeg",
+          "images/germany_cologne_cathedral_3.jpeg",
+          "images/germany_cologne_cathedral_4.jpeg",
+          "images/germany_cologne_cathedral_5.jpeg"
         ]
       },
       {
@@ -640,9 +640,9 @@
           "long": 13.4094
         },
         "images": [
-          "data/images/germany_berlin_fernsehtrum_1.jpeg",
-          "data/images/germany_berlin_fernsehtrum_2.jpeg",
-          "data/images/germany_berlin_fernsehtrum_3.webp"
+          "images/germany_berlin_fernsehtrum_1.jpeg",
+          "images/germany_berlin_fernsehtrum_2.jpeg",
+          "images/germany_berlin_fernsehtrum_3.webp"
         ]
       },
       {
@@ -654,18 +654,18 @@
           "long": 10.9854
         },
         "images": [
-          "data/images/germany_zugspitzbahn_1.jpg",
-          "data/images/germany_zugspitzbahn_2.jpg",
-          "data/images/germany_zugspitzbahn_3.jpg",
-          "data/images/germany_zugspitzbahn_4.jpg",
-          "data/images/germany_zugspitsbahn_5.jpg"
+          "images/germany_zugspitzbahn_1.jpg",
+          "images/germany_zugspitzbahn_2.jpg",
+          "images/germany_zugspitzbahn_3.jpg",
+          "images/germany_zugspitzbahn_4.jpg",
+          "images/germany_zugspitsbahn_5.jpg"
         ]
       }
     ]
   },
   {
     "name": "United Kingdom",
-    "flagIcon": "data/images/uk.png",
+    "flagIcon": "images/uk.png",
     "touristPlaces": [
       {
         "name": "Tower of London",
@@ -676,8 +676,8 @@
           "long": -0.076132
         },
         "images": [
-          "data/images/uk_tower_of_london.jpg",
-          "data/images/uk_tower_of_london_2.jpg"
+          "images/uk_tower_of_london.jpg",
+          "images/uk_tower_of_london_2.jpg"
         ]
       },
       {
@@ -689,9 +689,9 @@
           "long": 0.1419
         },
         "images": [
-          "data/images/uk_buckingham_palace.jpg",
-          "data/images/uk_buckingham_palace_2.jpg",
-          "data/images/uk_buckingham_palace_3.jpg"
+          "images/uk_buckingham_palace.jpg",
+          "images/uk_buckingham_palace_2.jpg",
+          "images/uk_buckingham_palace_3.jpg"
         ]
       },
       {
@@ -703,17 +703,17 @@
           "long": 1.8262
         },
         "images": [
-          "data/images/uk_stonehenge.jpg",
-          "data/images/uk_stonehenge_2.jpg",
-          "data/images/uk_stonehenge_3.jpg",
-          "data/images/uk_stonehenge_4.jpg"
+          "images/uk_stonehenge.jpg",
+          "images/uk_stonehenge_2.jpg",
+          "images/uk_stonehenge_3.jpg",
+          "images/uk_stonehenge_4.jpg"
         ]
       }
     ]
   },
   {
     "name": "Switzerland",
-    "flagIcon": "data/images/sw.png",
+    "flagIcon": "images/sw.png",
     "touristPlaces": [
       {
         "name": "Interlaken",
@@ -724,9 +724,9 @@
           "long": 7.8632
         },
         "images": [
-          "data/images/swiss_interlaken_1.jpg",
-          "data/images/swiss_interlaken_2.jpg",
-          "data/images/swiss_interlaken_3.jpg"
+          "images/swiss_interlaken_1.jpg",
+          "images/swiss_interlaken_2.jpg",
+          "images/swiss_interlaken_3.jpg"
         ]
       },
       {
@@ -738,9 +738,9 @@
           "long": 7.7491
         },
         "images": [
-          "data/images/swiss_zermatt_1.jpg",
-          "data/images/swiss_zermatt_2.jpg",
-          "data/images/swiss_zermatt_3.jpg"
+          "images/swiss_zermatt_1.jpg",
+          "images/swiss_zermatt_2.jpg",
+          "images/swiss_zermatt_3.jpg"
         ]
       },
       {
@@ -752,16 +752,16 @@
           "long": 7.5886
         },
         "images": [
-          "data/images/swiss_basel_1.jpeg",
-          "data/images/swiss_basel_2.webp",
-          "data/images/swiss_basel_3.jpg"
+          "images/swiss_basel_1.jpeg",
+          "images/swiss_basel_2.webp",
+          "images/swiss_basel_3.jpg"
         ]
       }
     ]
   },
   {
     "name": "Costa Rica",
-    "flagIcon": "data/images/cr.png",
+    "flagIcon": "images/cr.png",
     "touristPlaces": [
       {
         "name": "San Jose",
@@ -772,10 +772,10 @@
           "long": 121.8853
         },
         "images": [
-          "data/images/cr_san_jose_1.jpg",
-          "data/images/cr_san_jose_2.jpg",
-          "data/images/cr_san_jose_3.jpg",
-          "data/images/cr_san_jose_4.jpg"
+          "images/cr_san_jose_1.jpg",
+          "images/cr_san_jose_2.jpg",
+          "images/cr_san_jose_3.jpg",
+          "images/cr_san_jose_4.jpg"
         ]
       },
       {
@@ -787,10 +787,10 @@
           "long": 85.8396
         },
         "images": [
-          "data/images/cr_guanacaste_beaches_1.jpg",
-          "data/images/cr_guanacaste_beaches_2.jpg",
-          "data/images/cr_guanacaste_beaches_3.jpg",
-          "data/images/cr_guanacaste_beaches_4.jpg"
+          "images/cr_guanacaste_beaches_1.jpg",
+          "images/cr_guanacaste_beaches_2.jpg",
+          "images/cr_guanacaste_beaches_3.jpg",
+          "images/cr_guanacaste_beaches_4.jpg"
         ]
       },
       {
@@ -802,9 +802,9 @@
           "long": 84.7032
         },
         "images": [
-          "data/images/cr_arenal_volcano_1.jpg",
-          "data/images/cr_arenal_volcano_2.jpg",
-          "data/images/cr_arenal_volcano_3.jpg"
+          "images/cr_arenal_volcano_1.jpg",
+          "images/cr_arenal_volcano_2.jpg",
+          "images/cr_arenal_volcano_3.jpg"
         ]
       },
       {
@@ -816,9 +816,9 @@
           "long": 84.1451
         },
         "images": [
-          "data/images/cr_playa_manuel_antonio_1.jpg",
-          "data/images/cr_playa_manuel_antonio_2.jpg",
-          "data/images/cr_playa_manuel_antonio_3.jpg"
+          "images/cr_playa_manuel_antonio_1.jpg",
+          "images/cr_playa_manuel_antonio_2.jpg",
+          "images/cr_playa_manuel_antonio_3.jpg"
         ]
       },
       {
@@ -830,10 +830,10 @@
           "long": 84.7682
         },
         "images": [
-          "data/images/cr_monteverde_forest_1.jpg",
-          "data/images/cr_monteverde_forest_2.jpg",
-          "data/images/cr_monteverde_forest_3.jpg",
-          "data/images/cr_monteverde_forest_4.jpg"
+          "images/cr_monteverde_forest_1.jpg",
+          "images/cr_monteverde_forest_2.jpg",
+          "images/cr_monteverde_forest_3.jpg",
+          "images/cr_monteverde_forest_4.jpg"
         ]
       },
       {
@@ -845,16 +845,16 @@
           "long": 83.5024
         },
         "images": [
-          "data/images/cr_tortuguero_1.jpg",
-          "data/images/cr_tortuguero_2.jpg",
-          "data/images/cr_tortuguero_3.jpg",
-          "data/images/cr_tortuguero_4.jpg",
-          "data/images/cr_tortuguero_5.jpg",
-          "data/images/cr_tortuguero_6.jpg",
-          "data/images/cr_tortuguero_7.jpg",
-          "data/images/cr_tortuguero_8.jpg",
-          "data/images/cr_tortuguero_9.jpg",
-          "data/images/cr_tortuguero_10.jpg"
+          "images/cr_tortuguero_1.jpg",
+          "images/cr_tortuguero_2.jpg",
+          "images/cr_tortuguero_3.jpg",
+          "images/cr_tortuguero_4.jpg",
+          "images/cr_tortuguero_5.jpg",
+          "images/cr_tortuguero_6.jpg",
+          "images/cr_tortuguero_7.jpg",
+          "images/cr_tortuguero_8.jpg",
+          "images/cr_tortuguero_9.jpg",
+          "images/cr_tortuguero_10.jpg"
         ]
       },
       {
@@ -866,16 +866,16 @@
           "long": -84.971352
         },
         "images": [
-          "data/images/cr_celeste_river_1.jpg",
-          "data/images/cr_celeste_river_2.jpg",
-          "data/images/cr_celeste_river_3.jpg"
+          "images/cr_celeste_river_1.jpg",
+          "images/cr_celeste_river_2.jpg",
+          "images/cr_celeste_river_3.jpg"
         ]
       }
     ]
   },
   {
     "name": "Alyemen",
-    "flagIcon": "data/images/ye.png",
+    "flagIcon": "images/ye.png",
     "touristPlaces": [
       {
         "name": "Old City of Sanaa",
@@ -886,8 +886,8 @@
           "long": 44.2135
         },
         "images": [
-          "data/images/alyemen_sanaa_1.jpg",
-          "data/images/alyemen_sanaa_2.jpg"
+          "images/alyemen_sanaa_1.jpg",
+          "images/alyemen_sanaa_2.jpg"
         ]
       },
       {
@@ -899,16 +899,16 @@
           "long": 53.8237
         },
         "images": [
-          "data/images/alyemen_socotra_1.jpeg",
-          "data/images/alyemen_socotra_2.jpeg",
-          "data/images/alyemen_socotra_3.jpeg"
+          "images/alyemen_socotra_1.jpeg",
+          "images/alyemen_socotra_2.jpeg",
+          "images/alyemen_socotra_3.jpeg"
         ]
       }
     ]
   },
   {
     "name": "Lithuania",
-    "flagIcon": "data/images/li_lithuania_flag.png",
+    "flagIcon": "images/li_lithuania_flag.png",
     "touristPlaces": [
       {
         "name": "Vilnius Old Town",
@@ -919,9 +919,9 @@
           "long": 25.2865
         },
         "images": [
-          "data/images/li_vilnius_old_town.jpg",
-          "data/images/li_vilnius_old_town_2.jpg",
-          "data/images/li_vilnius_old_town_3.jpg"
+          "images/li_vilnius_old_town.jpg",
+          "images/li_vilnius_old_town_2.jpg",
+          "images/li_vilnius_old_town_3.jpg"
         ]
       },
       {
@@ -933,9 +933,9 @@
           "long": 20.9905
         },
         "images": [
-          "data/images/li_curonian_spit_national_park.jpg",
-          "data/images/li_curonian_spit_national_park_2.JPG",
-          "data/images/li_curonian_spit_national_park_3.jpg"
+          "images/li_curonian_spit_national_park.jpg",
+          "images/li_curonian_spit_national_park_2.JPG",
+          "images/li_curonian_spit_national_park_3.jpg"
         ]
       },
       {
@@ -947,16 +947,16 @@
           "long": 24.9336
         },
         "images": [
-          "data/images/li_trakai_island_castle.jpg",
-          "data/images/li_trakai_island_castle_2.jpg",
-          "data/images/li_trakai_island_castle_3.jpg"
+          "images/li_trakai_island_castle.jpg",
+          "images/li_trakai_island_castle_2.jpg",
+          "images/li_trakai_island_castle_3.jpg"
         ]
       }
     ]
   },
   {
     "name": "Indonesia",
-    "flagIcon": "data/images/id.png",
+    "flagIcon": "images/id.png",
     "touristPlaces": [
       {
         "name": "Bali",
@@ -967,11 +967,11 @@
           "long": 115.1889
         },
         "images": [
-          "data/images/indonesia_bali_1.jpeg",
-          "data/images/indonesia_bali_2.jpeg",
-          "data/images/indonesia_bali_3.jpeg",
-          "data/images/indonesia_bali_4.jpeg",
-          "data/images/indonesia_bali_5.jpeg"
+          "images/indonesia_bali_1.jpeg",
+          "images/indonesia_bali_2.jpeg",
+          "images/indonesia_bali_3.jpeg",
+          "images/indonesia_bali_4.jpeg",
+          "images/indonesia_bali_5.jpeg"
         ]
       },
       {
@@ -983,10 +983,10 @@
           "long": 119.4411
         },
         "images": [
-          "data/images/indonesia_comodo_island_1.jpeg",
-          "data/images/indonesia_comodo_island_2.jpeg",
-          "data/images/indonesia_comodo_island_3.jpeg",
-          "data/images/indonesia_comodo_island_4.jpeg"
+          "images/indonesia_comodo_island_1.jpeg",
+          "images/indonesia_comodo_island_2.jpeg",
+          "images/indonesia_comodo_island_3.jpeg",
+          "images/indonesia_comodo_island_4.jpeg"
         ]
       },
       {
@@ -998,11 +998,11 @@
           "long": 116.3249
         },
         "images": [
-          "data/images/indonesia_lombok_1.jpeg",
-          "data/images/indonesia_lombok_2.jpeg",
-          "data/images/indonesia_lombok_3.jpeg",
-          "data/images/indonesia_lombok_4.jpeg",
-          "data/images/indonesia_lombok_5.jpeg"
+          "images/indonesia_lombok_1.jpeg",
+          "images/indonesia_lombok_2.jpeg",
+          "images/indonesia_lombok_3.jpeg",
+          "images/indonesia_lombok_4.jpeg",
+          "images/indonesia_lombok_5.jpeg"
         ]
       },
       {
@@ -1014,10 +1014,10 @@
           "long": 110.2038
         },
         "images": [
-          "data/images/indonesia_candi_brob_1.jpeg",
-          "data/images/indonesia_candi_brob_2.jpeg",
-          "data/images/indonesia_candi_brob_3.jpeg",
-          "data/images/indonesia_candi_brob_4.jpeg"
+          "images/indonesia_candi_brob_1.jpeg",
+          "images/indonesia_candi_brob_2.jpeg",
+          "images/indonesia_candi_brob_3.jpeg",
+          "images/indonesia_candi_brob_4.jpeg"
         ]
       },
       {
@@ -1029,11 +1029,11 @@
           "long": 130.8779
         },
         "images": [
-          "data/images/indonesia_raja_ampat_1.jpeg",
-          "data/images/indonesia_raja_ampat_2.jpeg",
-          "data/images/indonesia_raja_ampat_3.jpeg",
-          "data/images/indonesia_raja_ampat_4.jpeg",
-          "data/images/indonesia_raja_ampat_5.jpeg"
+          "images/indonesia_raja_ampat_1.jpeg",
+          "images/indonesia_raja_ampat_2.jpeg",
+          "images/indonesia_raja_ampat_3.jpeg",
+          "images/indonesia_raja_ampat_4.jpeg",
+          "images/indonesia_raja_ampat_5.jpeg"
         ]
       },
       {
@@ -1045,18 +1045,18 @@
           "long": 112.9530
         },
         "images": [
-          "data/images/indonesia_bromo_1.jpeg",
-          "data/images/indonesia_bromo_2.jpeg",
-          "data/images/indonesia_bromo_3.jpeg",
-          "data/images/indonesia_bromo_4.jpeg",
-          "data/images/indonesia_bromo_5.jpeg"
+          "images/indonesia_bromo_1.jpeg",
+          "images/indonesia_bromo_2.jpeg",
+          "images/indonesia_bromo_3.jpeg",
+          "images/indonesia_bromo_4.jpeg",
+          "images/indonesia_bromo_5.jpeg"
         ]
       }
     ]
   },
   {
     "name": "Iraq",
-    "flagIcon": "data/images/iraq.png",
+    "flagIcon": "images/iraq.png",
     "touristPlaces": [
       {
         "name": "Baghdad",
@@ -1067,11 +1067,11 @@
           "long": 44.3661
         },
         "images": [
-          "data/images/bagdad_1.jpg",
-          "data/images/bagdad_2.jpg",
-          "data/images/bagdad_3.jpg",
-          "data/images/bagdad_4.jpg",
-          "data/images/bagdad_5.jpg"
+          "images/bagdad_1.jpg",
+          "images/bagdad_2.jpg",
+          "images/bagdad_3.jpg",
+          "images/bagdad_4.jpg",
+          "images/bagdad_5.jpg"
         ]
       },
       {
@@ -1083,9 +1083,9 @@
           "long": 44.0094
         },
         "images": [
-          "data/images/erbil_1.jpg",
-          "data/images/erbil_2.webp",
-          "data/images/erbil_3.jpg"
+          "images/erbil_1.jpg",
+          "images/erbil_2.webp",
+          "images/erbil_3.jpg"
         ]
       },
       {
@@ -1097,12 +1097,12 @@
           "long": 44.0197
         },
         "images": [
-          "data/images/karbala_1.jpg",
-          "data/images/karbala_2.jpg",
-          "data/images/karbala_3.jpg",
-          "data/images/karbala_4.jpg",
-          "data/images/karbala_5.jpeg",
-          "data/images/karbala_6.jpg"
+          "images/karbala_1.jpg",
+          "images/karbala_2.jpg",
+          "images/karbala_3.jpg",
+          "images/karbala_4.jpg",
+          "images/karbala_5.jpeg",
+          "images/karbala_6.jpg"
         ]
       },
       {
@@ -1114,9 +1114,9 @@
           "long": 42.7345
         },
         "images": [
-          "data/images/hatra_1.png",
-          "data/images/hatra_2.jpg",
-          "data/images/hatra_3.jpg"
+          "images/hatra_1.png",
+          "images/hatra_2.jpg",
+          "images/hatra_3.jpg"
         ]
       },
       {
@@ -1128,9 +1128,9 @@
           "long": 47.9458
         },
         "images": [
-          "data/images/marshes_1.jpg",
-          "data/images/marshes_2.jpg",
-          "data/images/marshes_3.jpg"
+          "images/marshes_1.jpg",
+          "images/marshes_2.jpg",
+          "images/marshes_3.jpg"
         ]
       },
       {
@@ -1142,7 +1142,7 @@
           "long": 47.7738
         },
         "images": [
-          "data/images/basra_1.jpg"
+          "images/basra_1.jpg"
         ]
       },
       {
@@ -1154,7 +1154,7 @@
           "long": 43.9055
         },
         "images": [
-          "data/images/samarra_1.jpg"
+          "images/samarra_1.jpg"
         ]
       },
       {
@@ -1166,8 +1166,8 @@
           "long": 44.3265
         },
         "images": [
-          "data/images/najaf_1.jpg",
-          "data/images/najaf_2.jpg"
+          "images/najaf_1.jpg",
+          "images/najaf_2.jpg"
         ]
       },
       {
@@ -1179,14 +1179,14 @@
           "long": 43.3211
         },
         "images": [
-          "data/images/nimrud_1.jpg"
+          "images/nimrud_1.jpg"
         ]
       }
     ]
   },
   {
     "name": "Kenya",
-    "flagIcon": "data/images/kenya.png",
+    "flagIcon": "images/kenya.png",
     "touristPlaces": [
       {
         "name": "Maasai Mara",
@@ -1197,9 +1197,9 @@
           "long": 35.1300
         },
         "images": [
-          "data/images/kenya_mara_1.jpg",
-          "data/images/kenya_mara_2.jpg",
-          "data/images/kenya_mara_3.jpg"
+          "images/kenya_mara_1.jpg",
+          "images/kenya_mara_2.jpg",
+          "images/kenya_mara_3.jpg"
         ]
       },
       {
@@ -1211,9 +1211,9 @@
           "long": 40.8677
         },
         "images": [
-          "data/images/kenya_lamu_1.jpg",
-          "data/images/kenya_lamu_2.jpg",
-          "data/images/kenya_lamu_3.jpg"
+          "images/kenya_lamu_1.jpg",
+          "images/kenya_lamu_2.jpg",
+          "images/kenya_lamu_3.jpg"
         ]
       },
       {
@@ -1225,15 +1225,15 @@
           "long": 37.1525
         },
         "images": [
-          "data/images/kenya_ff_1.jpg",
-          "data/images/kenya_ff_2.jpg"
+          "images/kenya_ff_1.jpg",
+          "images/kenya_ff_2.jpg"
         ]
       }
     ]
   },
   {
     "name": "Vietnam",
-    "flagIcon": "data/images/vietnam.webp",
+    "flagIcon": "images/vietnam.webp",
     "touristPlaces": [
       {
         "name": "Ha Long Bay",
@@ -1244,9 +1244,9 @@
           "long": 107.1839
         },
         "images": [
-          "data/images/vietnam_halongbay_1.webp",
-          "data/images/vietnam_halongbay_2.webp",
-          "data/images/vietnam_halongbay_3.webp"
+          "images/vietnam_halongbay_1.webp",
+          "images/vietnam_halongbay_2.webp",
+          "images/vietnam_halongbay_3.webp"
         ]
       },
       {
@@ -1258,9 +1258,9 @@
           "long": 106.1440
         },
         "images": [
-          "data/images/vietnam_sondoong_1.webp",
-          "data/images/vietnam_sondoong_2.webp",
-          "data/images/vietnam_sondoong_3.webp"
+          "images/vietnam_sondoong_1.webp",
+          "images/vietnam_sondoong_2.webp",
+          "images/vietnam_sondoong_3.webp"
         ]
       },
       {
@@ -1272,16 +1272,16 @@
           "long": 103.9840
         },
         "images": [
-          "data/images/vietnam_phuquoc_1.webp",
-          "data/images/vietnam_phuquoc_2.webp",
-          "data/images/vietnam_phuquoc_3.webp"
+          "images/vietnam_phuquoc_1.webp",
+          "images/vietnam_phuquoc_2.webp",
+          "images/vietnam_phuquoc_3.webp"
         ]
       }
     ]
   },
   {
     "name": "Peru",
-    "flagIcon": "data/images/peru.webp",
+    "flagIcon": "images/peru.webp",
     "touristPlaces": [
       {
         "name": "Machu Picchu",
@@ -1292,9 +1292,9 @@
           "long": -72.5451
         },
         "images": [
-          "data/images/machu_picchu_1.webp",
-          "data/images/machu_picchu_2.webp",
-          "data/images/machu_picchu_3.webp"
+          "images/machu_picchu_1.webp",
+          "images/machu_picchu_2.webp",
+          "images/machu_picchu_3.webp"
         ]
       },
       {
@@ -1306,9 +1306,9 @@
           "long": -71.3029
         },
         "images": [
-          "data/images/colorful_mountain_1.webp",
-          "data/images/colorful_mountain_2.webp",
-          "data/images/colorful_mountain_3.webp"
+          "images/colorful_mountain_1.webp",
+          "images/colorful_mountain_2.webp",
+          "images/colorful_mountain_3.webp"
         ]
       },
       {
@@ -1320,16 +1320,16 @@
           "long": -77.0103
         },
         "images": [
-          "data/images/lima_1.jpg",
-          "data/images/lima_2.webp",
-          "data/images/lima_3.webp"
+          "images/lima_1.jpg",
+          "images/lima_2.webp",
+          "images/lima_3.webp"
         ]
       }
     ]
   },
   {
     "name": "United States",
-    "flagIcon": "data/images/united-states.png",
+    "flagIcon": "images/united-states.png",
     "touristPlaces": [
       {
         "name": "Lake George",
@@ -1340,10 +1340,10 @@
           "long": -73.5466
         },
         "images": [
-          "data/images/us_ny_lake_george_water.jpg",
-          "data/images/us_ny_lake_george_expedition_park.jpg",
-          "data/images/us_ny_lake_george_bolton_landing.jpg",
-          "data/images/us_ny_lake_george_festive.jpg"
+          "images/us_ny_lake_george_water.jpg",
+          "images/us_ny_lake_george_expedition_park.jpg",
+          "images/us_ny_lake_george_bolton_landing.jpg",
+          "images/us_ny_lake_george_festive.jpg"
         ]
       },
       {
@@ -1355,8 +1355,8 @@
           "long": -122.4064
         },
         "images": [
-          "data/images/us_san_vesuvio_cafe_bar.jpg",
-          "data/images/us_san_vesuvio_cafe.jpg"
+          "images/us_san_vesuvio_cafe_bar.jpg",
+          "images/us_san_vesuvio_cafe.jpg"
         ]
       },
       {
@@ -1368,9 +1368,9 @@
           "long": -77.0506
         },
         "images": [
-          "data/images/us_wdc_lincoln_memorial.jpg",
-          "data/images/us_wdc_lincoln_memorial_entrance.jpg",
-          "data/images/us_wdc_lincoln_memorial_interior.jpg"
+          "images/us_wdc_lincoln_memorial.jpg",
+          "images/us_wdc_lincoln_memorial_entrance.jpg",
+          "images/us_wdc_lincoln_memorial_interior.jpg"
         ]
       }
     ]

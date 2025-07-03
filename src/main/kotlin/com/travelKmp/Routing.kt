@@ -15,17 +15,18 @@ import io.ktor.server.response.*
 import io.ktor.server.routing.*
 import java.io.File
 
+
 fun Application.configureRouting() {
     routing {
+        val baseUrl = environment.config.property("ktor.travelApp.baseUrl").getString()
         staticResources("/images", "data/images")
-
         route("/api") {
-            countriesRoutes()
+            countriesRoutes(baseUrl)
         }
     }
 }
 
-fun Route.countriesRoutes() {
+fun Route.countriesRoutes(baseUrl: String) {
     val repository = CountryRepository()
 
     route("/countries") {
@@ -33,11 +34,11 @@ fun Route.countriesRoutes() {
         get {
             call.respond(repository.getAllCountries().map {
                 it.copy(
-                    flagIcon = "http://0.0.0.0:8080/${it.flagIcon}",
+                    flagIcon = "$baseUrl${it.flagIcon}",
                     touristPlaces = it.touristPlaces.map { places->
                         places.copy(
                             images = places.images.map { imageLink->
-                                "http://0.0.0.0:8080/$imageLink"
+                                "$baseUrl$imageLink"
                             }
                         )
                     },
