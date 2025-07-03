@@ -6,10 +6,12 @@ import java.io.File
 
 class CountryRepository() {
     private val json = Json { prettyPrint = true; ignoreUnknownKeys = true }
-    private val dataFile = File("data/countries.json")
+    val resourceFolder = this::class.java.classLoader.getResource("data/countries.json")?.path
+    private val dataFile = File(resourceFolder?:"data/countries.json")
     
     init {
         // Create directory if it doesn't exist
+        println("Resource folder path: $resourceFolder \n")
         dataFile.parentFile?.mkdirs()
         
         // Create file if it doesn't exist
@@ -51,7 +53,8 @@ class CountryRepository() {
     }
     
     fun saveImage(imageBytes: ByteArray, fileName: String): String {
-        val imagesDir = File("data/images")
+        val resourceFolder = this::class.java.classLoader.getResource("data/images")?.path
+        val imagesDir = File(resourceFolder?:"data/images")
         imagesDir.mkdirs()
         
         val imageFile = File(imagesDir, fileName)

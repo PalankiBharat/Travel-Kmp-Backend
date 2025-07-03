@@ -1,1 +1,1 @@
-rootProject.name = "travel_kmp_backend"
+rootProject.name = "travelKmpBackend"

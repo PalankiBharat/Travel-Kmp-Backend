@@ -6,7 +6,10 @@ import com.travelKmp.repository.CountryRepository
 import io.ktor.http.*
 import io.ktor.http.content.*
 import io.ktor.server.application.*
+import io.ktor.server.http.content.resources
+import io.ktor.server.http.content.static
 import io.ktor.server.http.content.staticFiles
+import io.ktor.server.http.content.staticResources
 import io.ktor.server.request.*
 import io.ktor.server.response.*
 import io.ktor.server.routing.*
@@ -14,8 +17,7 @@ import java.io.File
 
 fun Application.configureRouting() {
     routing {
-        staticFiles("/data/images", File("data/images"))
-
+        staticResources("/images", "data/images")
 
         route("/api") {
             countriesRoutes()
