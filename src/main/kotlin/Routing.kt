@@ -1,5 +1,3 @@
-package com.travelKmp
-
 import models.Country
 import repository.CountryRepository
 import io.ktor.http.*
