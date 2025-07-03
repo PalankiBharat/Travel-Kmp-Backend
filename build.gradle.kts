@@ -11,9 +11,7 @@ group = "com.travelKmp"
 version = "0.0.1"
 
 application {
-    mainClass.set("io.ktor.server.netty.EngineMain")
-    val isDevelopment: Boolean = project.ext.has("development")
-    applicationDefaultJvmArgs = listOf("-Dio.ktor.development=$isDevelopment")
+    mainClass.set("com.travelKmp.ApplicationKt")
 }
 
 ktor {
@@ -22,13 +20,6 @@ ktor {
     }
     docker {
         jreVersion.set(JavaVersion.VERSION_20)
-        portMappings.set(listOf(
-            io.ktor.plugin.features.DockerPortMapping(
-                80,
-                8080,
-                io.ktor.plugin.features.DockerPortMappingProtocol.TCP
-            )
-        ))
     }
 }
 
