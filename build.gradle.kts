@@ -1,5 +1,4 @@
 val koin_version: String by project
-val kotlin_version: String by project
 val logback_version: String by project
 
 plugins {
@@ -12,7 +11,7 @@ group = "com.travelKmp"
 version = "0.0.1"
 
 application {
-    mainClass = "com.travelKmp.ApplicationKt"
+    mainClass.set("io.ktor.server.netty.EngineMain")
     val isDevelopment: Boolean = project.ext.has("development")
     applicationDefaultJvmArgs = listOf("-Dio.ktor.development=$isDevelopment")
 }
@@ -23,6 +22,13 @@ ktor {
     }
     docker {
         jreVersion.set(JavaVersion.VERSION_20)
+        portMappings.set(listOf(
+            io.ktor.plugin.features.DockerPortMapping(
+                80,
+                8080,
+                io.ktor.plugin.features.DockerPortMappingProtocol.TCP
+            )
+        ))
     }
 }
 
@@ -48,5 +54,5 @@ dependencies {
     implementation("io.ktor:ktor-server-netty")
     implementation("ch.qos.logback:logback-classic:$logback_version")
     testImplementation("io.ktor:ktor-server-test-host")
-    testImplementation("org.jetbrains.kotlin:kotlin-test-junit:$kotlin_version")
+    testImplementation("org.jetbrains.kotlin:kotlin-test-junit:2.1.10")
 }
