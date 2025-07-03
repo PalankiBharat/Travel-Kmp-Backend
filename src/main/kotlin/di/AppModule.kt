@@ -1,6 +1,6 @@
-package com.travelKmp.di
+package di
 
-import com.travelKmp.repository.CountryRepository
+import repository.CountryRepository
 import org.koin.dsl.module
 
 val appModule = module {

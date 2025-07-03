@@ -1,4 +1,4 @@
-package com.travelKmp.models
+package models
 
 import kotlinx.serialization.Serializable
 

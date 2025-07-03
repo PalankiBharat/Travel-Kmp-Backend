@@ -23,5 +23,5 @@ FROM amazoncorretto:22 AS runtime
 EXPOSE 8080
 RUN mkdir /app
 COPY --from=build /home/gradle/src/build/libs/fat.jar /app/app.jar
-COPY --from=build src/main/resources/application.conf application.conf
+COPY --from=build /home/gradle/src/build/resources/main/application.conf application.conf
 ENTRYPOINT ["java","-jar","/app/app.jar", "-config=application.conf"]

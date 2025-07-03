@@ -1,11 +1,8 @@
-package com.travelKmp.repository
+package repository
 
-import com.travelKmp.models.Country
-import kotlinx.serialization.encodeToString
-import kotlinx.serialization.decodeFromString
+import models.Country
 import kotlinx.serialization.json.Json
 import java.io.File
-import java.nio.file.Paths
 
 class CountryRepository() {
     private val json = Json { prettyPrint = true; ignoreUnknownKeys = true }
